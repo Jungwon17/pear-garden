@@ -1,0 +1,5 @@
+mkdir helloworld
+cd helloworld
+git init
+
+git add hello.html
